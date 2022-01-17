@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/accountbook-react-website/static/css/main.f8d1ac7d.css",
+    "main.js": "/accountbook-react-website/static/js/main.7d89f2f8.js",
+    "static/js/787.d6a18b03.chunk.js": "/accountbook-react-website/static/js/787.d6a18b03.chunk.js",
+    "index.html": "/accountbook-react-website/index.html",
+    "main.f8d1ac7d.css.map": "/accountbook-react-website/static/css/main.f8d1ac7d.css.map",
+    "main.7d89f2f8.js.map": "/accountbook-react-website/static/js/main.7d89f2f8.js.map",
+    "787.d6a18b03.chunk.js.map": "/accountbook-react-website/static/js/787.d6a18b03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8d1ac7d.css",
+    "static/js/main.7d89f2f8.js"
+  ]
+}
